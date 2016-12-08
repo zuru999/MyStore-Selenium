@@ -1,0 +1,13 @@
+C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\bin\Debug\wires-0.6.0-win.exe
+C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\bin\Debug\MyStore-AutomationTest.dll
+C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\bin\Debug\MyStore-AutomationTest.pdb
+C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\bin\Debug\nunit.framework.dll
+C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\bin\Debug\WebDriver.dll
+C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\bin\Debug\WebDriver.Support.dll
+C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\bin\Debug\nunit.framework.xml
+C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\bin\Debug\WebDriver.xml
+C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\bin\Debug\WebDriver.Support.xml
+C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\obj\Debug\MyStore-AutomationTest.csprojResolveAssemblyReference.cache
+C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\obj\Debug\MyStore-AutomationTest.dll
+C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\obj\Debug\MyStore-AutomationTest.pdb
