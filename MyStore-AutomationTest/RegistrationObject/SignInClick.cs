@@ -29,9 +29,15 @@ namespace MyStore_AutomationTest.RegistrationObject
         public void FillUserSignIn(string EmailAdress)
         {
             btnSignIn.Click();
+            waitOnPage(3);
+            txtEmail.Clear();
             txtEmail.EnterText(EmailAdress);
             btnCreateAccount.Click();
         }
 
+        public void waitOnPage(int seconds)                                            //metoda która będzie czekała po załadaowaniu strony określony czas
+        {                                                                               //przeliczana z milisekund na sekundy
+            System.Threading.Thread.Sleep(seconds * 1000);
+        }
     }
 }

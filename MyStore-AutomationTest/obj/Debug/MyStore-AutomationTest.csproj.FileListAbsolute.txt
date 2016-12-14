@@ -11,3 +11,6 @@ C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\bin\Debug\WebD
 C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\obj\Debug\MyStore-AutomationTest.csprojResolveAssemblyReference.cache
 C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\obj\Debug\MyStore-AutomationTest.dll
 C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\obj\Debug\MyStore-AutomationTest.pdb
+C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\bin\Debug\Excel.dll
+C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\C#\Automatyzacja\MyStore-AutomationTest\MyStore-AutomationTest\bin\Debug\Excel.pdb

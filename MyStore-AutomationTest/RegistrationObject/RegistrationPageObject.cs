@@ -9,6 +9,7 @@ using NUnit.Framework;
 using OpenQA.Selenium.Support.UI;
 
 
+
 namespace MyStore_AutomationTest.RegistrationObject
 {
     class RegistrationPageObject
@@ -20,7 +21,7 @@ namespace MyStore_AutomationTest.RegistrationObject
         }
 
 
-       
+      
 
         [FindsBy(How = How.Id, Using = "uniform-id_gender1")]
         public IWebElement btnGender { get; set; }
@@ -96,7 +97,7 @@ namespace MyStore_AutomationTest.RegistrationObject
 
         public void FillUserForm(string firstName, string lastName, string typePassword, string addresFirstName,
                                  string addresLastName, string companyName, string companyAdress1, string companyAdress2, string cityName,
-                                 string zpiPostCode, string additionalInfo, string landLinePhone, string mobilePhone, string allias )       
+                                 string zipPostCode, string additionalInfo, string landLinePhone, string mobilePhone, string allias )       
                                  // moze byc void bo nie zwraca nam potem zadnego obiektu
         {
 
@@ -120,7 +121,7 @@ namespace MyStore_AutomationTest.RegistrationObject
             txtAdress2.EnterText(companyAdress2);
             txtCity.EnterText(cityName);
             dropdownStateDropdown.SelectDropDown("New York");
-            txtZpiPostCode.EnterText(zpiPostCode);
+            txtZpiPostCode.EnterText(zipPostCode);
             dropdowndCountry.SelectDropDown("United States");
             txtAdditionalInfo.EnterText(additionalInfo);
             txtLandLineNumber.EnterText(landLinePhone);
